@@ -1,7 +1,6 @@
 ## First, set working directory
 
-setwd("~/Desktop/Coursera/4explore/project1/ExData_Plotting1")
-
+setwd("~/Desktop/Coursera/4explore/project1")
 
 ## Second, determine values for skip and nrows arguments of read.table()
 
